@@ -1,4 +1,4 @@
-old styling demo: https://siasky.net/IADUoX_G49GKKr9CsC-kyMBV5xUefCqUVjD0KLvoiwwkkQ/
+old styling: https://siasky.net/IADUoX_G49GKKr9CsC-kyMBV5xUefCqUVjD0KLvoiwwkkQ/
 
 # SkyID (improved styling)
 
